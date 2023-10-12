@@ -5,6 +5,7 @@ Please find attached the Jupyter Notebook with the analysis on the PyCitySchools
 The notebook includes the calculations and the analysis description and conclusions.
 
 
+
 ### Module 4 Challenge
 Instructions
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
