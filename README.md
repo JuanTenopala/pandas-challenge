@@ -1,6 +1,7 @@
 # pandas-challenge
 
 Please find attached the Jupyter Notebook with the analysis on the PyCitySchools.
+
 The notebook includes the calculations and the analysis description and conclusions.
 
 
